@@ -1,0 +1,3 @@
+[submodule "resume_maker"]
+	path = resume_maker
+	url = https://github.com/dnlk/resume_maker.git
